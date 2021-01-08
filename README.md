@@ -12,12 +12,12 @@ Ou de estruturação de conteúdo, com as tags:
 main, section, article, header, footer, aside, nav,figure
  
 O desenvolvedor Front-end deve saber e utilizar essas tags no momento propício, pois o seu uso impacta diretamente no SEO (Search Engine Optimization), acessibilidade e legibilidade da sua aplicação.
->> Leitura recomendada: Guia do HTML 5.
+--- Leitura recomendada: Guia do HTML 5.
 2. CSS3
 Somente com HTML a missão de se reproduzir os protótipos do design para uma aplicação real seria praticamente impossível ou insustentável. Saber CSS3 é essencial para se criar aplicações responsivas, além de separar a responsabilidade do desenvolvimento do layout para uma linguagem específica para isso.
 Todo desenvolvedor Front-end deve saber manipular Flexbox, Grid System, pequenas animações com Keyframes, e também uso de classes e paradigmas de organização de código como BEM.
  
->>Leitura recomendada: Guia do CSS3.
+---Leitura recomendada: Guia do CSS3.
 3. JavaScript (ES6)
 Atualmente o Javascript é uma das linguagens mais utilizadas no mundo, e no Front-end ela reina absoluta. Com versões do Ecmascript cada vez mais poderosas e funcionais, é de suma importância a masterização da linguagem por qualquer desenvolvedor Front-end.
 Aprender conceitos básicos como condições e loops é indispensável. Ter conhecimentos de imutabilidade, programação funcional, closures, parâmetros defaults, template literals, utilização de let e const, funções de manipulação de array, destructuring, funções assíncronas, entre outros também.
@@ -41,7 +41,7 @@ Independente do problema que uma aplicação venha a solucionar, a aplicação d
 9. SEO (Search Engine Optimization)
 De nada adianta desenvolver um super produto e o mesmo não é achado pelas mais famosas ferramentas de busca, certo?
 Ter conhecimentos básicos de Search Engine Optimization, são essenciais para um desenvolvedor Front-end. Aplicando tais conhecimentos, a aplicação poderá ser localizada mais facilmente e o crescimento orgânico irá ocorrer de maneira exponencial.
->>Leitura recomendada:
+---Leitura recomendada:
 6 maneiras que os Desenvolvedores podem aprender SEO
 10. Responsividade e Cross Browser
 Atualmente existem diversas formas de se acessar a mesma aplicação web, por meio de diferentes aparelhos, como computadores desktop, tablets ou dispositivos móveis.
