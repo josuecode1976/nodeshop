@@ -3,13 +3,13 @@
  web site em html css
 
 1. HTML5
-A principal linguagem de marcação para desenvolvimento web, o HTML5, vai muito além de <code><div></code>s. Tendo um leque de tags, o HTML5 dá à página diversas funcionalidades nativas, como por exemplo, a de manipulação de conteúdos gráficos e multimídia, através das tags:
+A principal linguagem de marcação para desenvolvimento web, o HTML5, vai muito além de div s. Tendo um leque de tags, o HTML5 dá à página diversas funcionalidades nativas, como por exemplo, a de manipulação de conteúdos gráficos e multimídia, através das tags:
  
-<video>, <audio>, <canvas>
+video, audio, canvas
  
 Ou de estruturação de conteúdo, com as tags:
  
-<main>, <section>, <article>, <header>, <footer>, <aside>, <nav>,<figure>
+main, section, article, header, footer, aside, nav,figure
  
 O desenvolvedor Front-end deve saber e utilizar essas tags no momento propício, pois o seu uso impacta diretamente no SEO (Search Engine Optimization), acessibilidade e legibilidade da sua aplicação.
 >> Leitura recomendada: Guia do HTML 5.
