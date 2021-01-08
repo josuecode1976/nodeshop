@@ -131,3 +131,5 @@ Como o Front-end é algo bastante acessível ao usuário final, ter uma página 
 Portanto, crie uma página na web com tudo o que aprendeu e apresente seus projetos, ideias, tecnologias, diga o que tem aprendido no decorrer da sua carreira. É através dessa página que você poderá contar ao mundo o que tem feito e o que ainda quer fazer, além de ser uma ótima maneira de mostrar todo seu talento.
 Como falei no início do artigo, não existe fórmula secreta para o sucesso e isso pode ser refletido a essa lista. Existem desenvolvedores incríveis que não fazem ou não masterizam um ou mais tópicos dessa lista, mas mesmo assim são excepcionais em sua profissão.
 Otávio Augusto é Desenvolvedor Front-end na GeekHunter.
+
+https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/
