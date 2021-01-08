@@ -6,19 +6,19 @@ a{ text-decoration: none; }
 h2{font-size: 1.5em; color: #333; }
 p{font-size: 1em; color: #333;}
 /*cabeçalho*/
-.cabecalho{width: 100%; float: left; padding: 8px 6%; background-color:#005073;}
+.cabecalho{width: 100%; float: left; padding: 8px 6%; background-color:#03396c;}
 .logo{width: 220px; height: 48px; float: left; padding: 3px;}
 .cabecalho form{width: 30%; float: right; padding: 8px 0; }
 .cabecalho input[type="text"]{width: 85%; float: left; padding: 10px 0; background-color: #fff; color: #005073; border-radius: 5px 0 0 5px; text-transform: uppercase; text-align: center;}
 .cabecalho button{width: 15%; padding: 10px 0; background-color: rgb(226, 224, 224); color: #1111; cursor: pointer; border-radius: 0 5px 5px 0; }
 /*menu*/
-.menu{width: 100%; float: left; padding: 8px 6%; background-color: #107dac;}
+.menu{width: 100%; float: left; padding: 8px 6%; background-color: #005b96 ;}
 .menu li{ float: left; padding: 6px;}
 .menu li a {color: #fff; margin-right: 10px; font-weight: 600; text-transform: uppercase;}
 .menu li a:hover{color: #bfe0ff; border-bottom: 4px solid #bfe0ff;} 
 /* social-icons*/
 .social-icons{width: 20%; float: right;}
-.social-icons a {color: #fff;margin-left: 10px; padding: 5px;}
+.social-icons a {color: #fff;margin-left: 5px; padding: 5px;}
 .btn-facebook:hover{color:#142f69 ;}
 .btn-twitter:hover{color:#bfe0ff ;}
 .btn-google:hover{color:#ee0909 ;}
