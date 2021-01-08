@@ -2,6 +2,8 @@
  website 
  web site em html css
 
+ 20 Tópicos que todo desenvolvedor Front-end deveria saber
+
 1. HTML5
 A principal linguagem de marcação para desenvolvimento web, o HTML5, vai muito além de div s. Tendo um leque de tags, o HTML5 dá à página diversas funcionalidades nativas, como por exemplo, a de manipulação de conteúdos gráficos e multimídia, através das tags:
  
