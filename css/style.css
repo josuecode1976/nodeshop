@@ -4,7 +4,7 @@ img{max-width: 100%;}
 ul{list-style: none;}
 a{ text-decoration: none; }
 h2{font-size: 1.5em; color: #333; }
-p{font-size: 1em; color: #fff;}
+p{font-size: 1em; color: #333;}
 /*cabeçalho*/
 .cabecalho{width: 100%; float: left; padding: 8px 6%; background-color:#005073;}
 .logo{width: 220px; height: 48px; float: left; padding: 3px;}
@@ -22,3 +22,8 @@ p{font-size: 1em; color: #fff;}
 .btn-facebook:hover{color:#142f69 ;}
 .btn-twitter:hover{color:#bfe0ff ;}
 .btn-google:hover{color:#ee0909 ;}
+/*principal*/
+.principal{width: 100%; float: left;}
+.sobre{width: 50%; float: left; padding: 10px 20px;}
+.sobre img {width: 65%; float: left; border-radius: 10px; margin: 0 15px 10px 0;}
+p{text-align: justify;}
