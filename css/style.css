@@ -27,7 +27,7 @@ p{font-size: 1em; color: #333;}
 .sobre{width: 60%; float: left; padding: 10px 20px; }
 .sobre h2{font-weight: 600;}
 .sobre img {width: 65%; float: left; border-radius: 10px; margin: 0 15px 10px 0;}
-p{text-align: justify;}
+.sobre p{text-align: justify;}
 /*onde-estamos*/
 .onde-estamos{width:40%;float: right; padding:10px 20px; background-color: #b8b5b5; border-radius: 5px; margin-top: 35px;}
 .onde-estamos h2{margin-bottom: 10px; text-transform: capitalize; font-weight: 600; text-align: center;}
@@ -35,3 +35,14 @@ p{text-align: justify;}
 .onde-estamos iframe{width:100%; height: 260px; margin: 20px 0;}
 .onde-estamos li{color: #222; margin-bottom: 10px}
 .onde-estamos i{margin-right: 5px;}
+/*newsletter*/
+.newsletter{width: 100%; float: left; background-color:#03396c; padding: 30px 8%;}
+.newsletter h3 {font-size: 1.8em; color:#fff;}
+.newsletter p {font-size: 1.2em;color: #fff;}
+.newsletter form{width:100%; float: left;margin-top: 10px;}
+.newsletter form input{width:40%;margin-right: 0.7%; padding: 15px 10px; border: solid 1px #fff; border-radius: 5px;color: #fff; background-color: initial;float: left;color:#fff; font-weight: 600;}
+.newsletter button{width:18.2%; background-color:#fff; padding:15px 10px; border-radius: 5px; float: right; cursor:pointer;}
+.newsletter button:hover{background-color: #222; color:#fff;}
+/*rodape*/
+.rodape{width:100%; float:left; padding: 20px 8%; background-color: #005b96; }
+.rodape p {color:#fff} 
